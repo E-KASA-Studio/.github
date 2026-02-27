@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=E-KASA%20Studio&fontSize=70&fontColor=ffffff&fontAlign=80&animation=fadeIn" />
-</p>
+
 
 ## E-KASA Studio: Engineering with Digital Native Mindset
 At E-KASA Studio, we craft high-performance digital applications. 
