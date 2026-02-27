@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="/main_readme_banner.png" alt="E-KASA Studio Banner" width="100%">
+</p>
 
 ## E-KASA Studio: Engineering with Digital Native Mindset
 At E-KASA Studio, we craft high-performance digital applications. 
