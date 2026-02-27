@@ -53,7 +53,8 @@ We use a modern, proven tech stack to build fast and scalable applications:
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/E-KASA%20Studio) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dozhdikovailmira@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dozhdikovailmira@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0B2447?logo=discord&logoColor=white)](https://discord.gg/aprCyDTXtk)
 
 ### 📫 Contact us:
 * 📧 Email: [dozhdikovailmira@gmail.com](mailto:dozhdikovailmira@gmail.com)
