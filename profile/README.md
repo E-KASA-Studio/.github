@@ -57,5 +57,5 @@ We use a modern, proven tech stack to build fast and scalable applications:
 [![Discord](https://img.shields.io/badge/Discord-0B2447?logo=discord&logoColor=white)](https://discord.gg/aprCyDTXtk)
 
 ### 📫 Contact us:
-* 📧 Email: [dozhdikovailmira@gmail.com](mailto:dozhdikovailmira@gmail.com)
+* 📧 Email: [ilmira@ekasastudio.com](mailto:ilmira@ekasastudio.com)
 * 📍 Based in: **Barcelona, Spain**
