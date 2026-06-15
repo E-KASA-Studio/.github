@@ -2,13 +2,10 @@
   <img src="/main_readme_banner.png" alt="E-KASA Studio Banner" width="100%">
 </p>
 
-## E-KASA Studio: Engineering with Digital Native Mindset
-At E-KASA Studio, we craft high-performance digital applications. 
-By bringing "the best of the past" into "the cutting-edge of the future," we ensure that every project we deliver is as robust as it is innovative.
+## E-KASA Studio: Turning business chaos into structured digital workflows.
+**From spreadsheets, chaotic messages, and manual work to structured workflows and practical automation.**
 
-Our team is empowered by **Digital Natives**: developers who grew up with tech as their natural environment. 
-We believe that the youth are not just the future of technology — they are its most powerful present. 
-We bridge the gap between solid old-school experience and the fresh, innovative energy of the new generation.
+We combine hands-on experience in corporate finance and business operations with modern web technologies to build products that solve real problems — not just look good.
 
 ---
 
@@ -16,8 +13,9 @@ We bridge the gap between solid old-school experience and the fresh, innovative 
 We use a modern, proven tech stack to build fast and scalable applications:
 
 * **Next-Gen Angular (Core Expertise):** Expert use of **Angular 19+**, leveraging **Signals** for fine-grained reactivity and the new **`httpResource`**.
-* **Modern Web Stack:** Strong focus on **TypeScript**, **TailwindCSS**, and exploring the latest **React** patterns for versatile UI solutions.
-* **Robust Backend:** Scalable APIs with **Node.js**, **Express 5.1**, and **Sequelize ORM** for secure **MySQL** integration.
+* **Modern Web Stack:** Strong focus on **TypeScript**, **TailwindCSS**, and familiar the latest **React** patterns for versatile UI solutions.
+* **Backend Solutions:** Developing APIs and integrations with **Node.js**, **Express**, **Sequelize ORM**, and **MySQL** integration.
+* **Automation & AI Integrations:** Connecting business workflows with modern AI services and automation tools to streamline repetitive tasks and improve     operational efficiency.
 
 ---
 
