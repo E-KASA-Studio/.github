@@ -2,7 +2,7 @@
   <img src="/main_readme_banner.png" alt="E-KASA Studio Banner" width="100%">
 </p>
 
-## E-KASA Studio: Turning business chaos into structured digital workflows.
+## E-KASA Studio: Turning business ideas into structured digital workflows.
 **From spreadsheets, chaotic messages, and manual work to structured workflows and practical automation.**
 
 We combine hands-on experience in corporate finance and business operations with modern web technologies to build products that solve real problems — not just look good.
